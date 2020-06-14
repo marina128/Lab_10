@@ -1,0 +1,6 @@
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.pdb
