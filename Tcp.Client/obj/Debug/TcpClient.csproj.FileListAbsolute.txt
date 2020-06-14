@@ -1,0 +1,12 @@
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\SomeProject.TcpClient.ClientMainWindow.resources
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\SomeProject.TcpClient.Properties.Resources.resources
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csproj.GenerateResource.Cache
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\bin\Debug\TcpClient.exe.config
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\bin\Debug\TcpClient.exe
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\bin\Debug\TcpClient.pdb
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\bin\Debug\SomeProject.Library.dll
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\bin\Debug\SomeProject.Library.pdb
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.exe
+C:\Users\Marina\Downloads\prog\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.pdb
